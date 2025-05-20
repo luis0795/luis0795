@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @luis0795
-- 👀 I’m interested in Web Dev, Blockchain, UX/UI
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ANY PROJECT
-- 📫 How to reach me luis_07_95@hotmail.com
 
-<!---
-luis0795/luis0795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+
+I’m a Full-Stack Developer (front-end focused) with over 5 years of experience building responsive, accessible applications with React, TypeScript, and .NET.
+
+- 🔭 Currently focused on modern React, DevOps, and testing
+- 🧠 Learning GraphQL, system design, and AI workflows
+- ✍️ Blog coming soon -->
+- 📫 Reach me at: luis_07_95@hotmail.com
